@@ -3,7 +3,7 @@
 🎓 Bilgisayar mühendisiyim. / I'm a Computer Engineer. <br>
 👀 Otomasyonlar, masaüstü ve mobil uygulamalarla ilgileniyorum. / I’m into automations, desktop and mobile apps. <br>
 📺 Projelerimi YouTube kanalımda paylaşıyorum. / I share my projects on my YouTube channel. <br>
-📫 Bana ulaşabilirsin: **ioscan@proton.me**. / You can reach me at: **ioscan@proton.me**. <br>
+📫 Bana ulaşabilirsin: **contact.ioscan@proton.me**. / You can reach me at: **contact.ioscan@proton.me**. <br>
 📱 Yayınladığım mobil uygulamaları Google Play Store üzerinden inceleyebilirsin: [![Google Play](https://img.shields.io/badge/Google%20Play-Apps-34A853?logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=8306783047321528683) <br>
 📱 You can check out my mobile apps on Google Play Store: [![Google Play](https://img.shields.io/badge/Google%20Play-Apps-34A853?logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=8306783047321528683)
 
